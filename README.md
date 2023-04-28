@@ -11,7 +11,7 @@ These are usually created by a designer as a source of instructions for a web de
 This project assumes that we would be able to reproduce the basic HTML and CSS with little guidance.
 
 The images and design spec we needed to complete the project are listed below.
-
+--------------------------------------------------------------------------------
 Images:
 
 Images:
