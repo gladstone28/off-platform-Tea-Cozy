@@ -12,7 +12,6 @@ This project assumes that we would be able to reproduce the basic HTML and CSS w
 
 The images and design spec we needed to complete the project are listed below.
 --------------------------------------------------------------------------------
-Images:
 
 Images:
 
@@ -27,6 +26,7 @@ Images:
 9. Design Spec:
 
 Click here to access the design spec.
+-------------------------------------
 
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*1v2bqfr*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
 
