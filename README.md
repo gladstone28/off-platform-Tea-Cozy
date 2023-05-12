@@ -1,8 +1,9 @@
-LEARN INTERMEDIATE CSS
-==========================
 
-Off-Platform Project: Tea Cozy
-------------------------------
+# LEARN INTERMEDIATE CSS
+
+
+## Off-Platform Project: Tea Cozy
+
 In this project, we were asked to create a fictional tea shop website on our own computer.
 
 
@@ -10,8 +11,8 @@ They provided a design spec and image assets to help us along the way. A design 
 These are usually created by a designer as a source of instructions for a web developer. 
 This project assumes that we would be able to reproduce the basic HTML and CSS with little guidance.
 
-The images and design spec we needed to complete the project are listed below.
---------------------------------------------------------------------------------
+### The images and design spec we needed to complete the project are listed below.
+
 
 Images:
 
@@ -25,18 +26,18 @@ Images:
 8. Spiced Rum
 9. Design Spec:
 
-Click here to access the design spec.
--------------------------------------
+#### Click here to access the design spec.
+
 
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*1v2bqfr*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
 
-See link to lesson below:
---------------------------
+#### See link to lesson below:
+
 
 https://www.codecademy.com/courses/learn-intermediate-css/projects/tea-cozy
 
-link to resources
--------------------
+#### link to resources
+
 
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png?_gl=1*1m36ghn*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
 
