@@ -55,3 +55,8 @@ https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background
 https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg?_gl=1*1oq3cxh*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
 
 https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg?_gl=1*1cv7peq*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
+
+
+location note:
+
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/off-platform-Tea-Cozy
