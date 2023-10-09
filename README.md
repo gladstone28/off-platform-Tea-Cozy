@@ -25,9 +25,9 @@ Images:
 6. Background
 7. Myrtle Ave
 8. Spiced Rum
-9. Design Spec:
+Design Spec:
 
-#### Click here to access the design spec.
+9. [Click here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*1ciewo2*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY5Njg3NTk4My44NjEuMS4xNjk2ODc2ODU4LjE1LjAuMA..) to access the design spec.
 
 
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*1v2bqfr*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4MjY0MTg1MS4zNDUuMS4xNjgyNjQyOTkxLjU1LjAuMA..
